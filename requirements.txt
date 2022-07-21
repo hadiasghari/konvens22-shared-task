@@ -1,0 +1,14 @@
+# env is python 3
+jupyter
+jupyterlab
+numpy
+scipy
+pandas
+matplotlib 
+scikit-learn 
+torch
+tensorflow-gpu  # (needs cudatoolkit on ubuntu; if fails just do tensorflow)
+spacey
+transformers  # huggingface transformers
+datasets      # huggingface datasets
+#textstat  # multilingual readability statistics
