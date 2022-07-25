@@ -8,4 +8,4 @@ _In Proceedings of the GermEval 2022 Shared Task on Text Complexity Assessment o
 - Section "Neural Approach" → model-xlmr-v3.ipynb
 - Section "Feature-based Approach" → feature-based-approach.ipynb
 - Section "Ensemble Results" → ensemble-results.ipynb
-- 
+
