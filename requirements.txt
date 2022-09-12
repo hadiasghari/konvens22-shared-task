@@ -11,4 +11,5 @@ tensorflow-gpu  # (needs cudatoolkit on ubuntu; if fails just do tensorflow)
 spacey
 transformers  # huggingface transformers
 datasets      # huggingface datasets
-#textstat  # multilingual readability statistics
+# textstat  # multilingual readability statistics (if needed)
+git+https://github.com/rstodden/text-simplification-evaluation.git@master  # for feature extraction
